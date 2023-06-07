@@ -20,7 +20,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshit-sharmaaa&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-  ![Snake animation](https://github.com/harshit-sharmaaa/harshit-sharmaaa/blob/output/github-contribution-grid-snake.svg)
 
 
 
