@@ -15,7 +15,7 @@
 ![Harshit's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=harshit-sharmaaa&theme=algolia&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharmaaa&layout=donut&theme=algolia)
 
-[![harshit-sharmaaa's GitHub | Stats](https://stats.quine.sh/harshit-sharmaaa/github?theme=light)](https://quine.sh)
+[![harshit-sharmaaa's GitHub | Stats](https://stats.quine.sh/harshit-sharmaaa/github?theme=dark)](https://quine.sh)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshit-sharmaaa&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
