@@ -17,7 +17,7 @@
 
 [![harshit-sharmaaa's GitHub | Stats](https://stats.quine.sh/harshit-sharmaaa/github?theme=dark)](https://quine.sh)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies.
 ![](https://github-profile-trophy.vercel.app/?username=harshit-sharmaaa&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 
