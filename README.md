@@ -14,6 +14,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-sharmaaa&theme=algolia)<br/>
 ![Harshit's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=harshit-sharmaaa&theme=algolia&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharmaaa&layout=donut&theme=algolia)
+[![harshit-sharmaaa's GitHub | Languages Over Time](https://stats.quine.sh/harshit-sharmaaa/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harshit-sharmaaa)
 
 [![harshit-sharmaaa's GitHub | Stats](https://stats.quine.sh/harshit-sharmaaa/github?theme=dark)](https://quine.sh)
 
