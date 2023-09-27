@@ -21,6 +21,8 @@
 ## 🏆 GitHub Trophies.
 ![](https://github-profile-trophy.vercel.app/?username=harshit-sharmaaa&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @harshitsharmaaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitsharmaaa)](https://holopin.io/@harshitsharmaaa)
+
 # Thanks For Visiting 🌟
 
 
