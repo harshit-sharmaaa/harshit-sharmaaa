@@ -2,7 +2,7 @@
 
 # 👋 Hey Guys, Harshit here!
 # 🌟 About Me:
-🔭 I’m currently working on ML Projects<br>👯 I’m looking to contribute in Open Source Projects<br>🤝  I Actively Practice DSA , I Did 200+ ques<br>
+🔭 I’m currently working on ML Projects<br>👯 I’m looking product improvements and development <br>🤝  I Actively Practice DSA , I Did 200+ ques<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-sharma-a59b0a20b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/@HarxitS)
